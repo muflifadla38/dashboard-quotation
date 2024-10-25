@@ -1,7 +1,7 @@
 # Laravel Filament Quotation
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![PHP Version](https://img.shields.io/badge/PHP-8.1-blue)
+![PHP Version](https://img.shields.io/badge/PHP-8.3-blue)
 ![Laravel Version](https://img.shields.io/badge/Laravel-10-orange)
 
 This is a Laravel-based quotation project that uses the Filament for building modern and feature-rich dashboards.
